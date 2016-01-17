@@ -1,4 +1,4 @@
-#EXTM3U name="openplus.movistar.iptv"
+#EXTM3U name="openplus.movistar.iptv.vlc"
 #EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg, [000] Movistar+
 rtp://@239.0.0.77:8208
 #EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg, [001] TVE 1
