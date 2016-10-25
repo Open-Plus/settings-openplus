@@ -1,0 +1,64 @@
+#NAME VARIOS PAISES
+#SERVICE 1:64:77:0:0:0:0:0:0:0::▲ ▲ ESPAÑA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ ESPAÑA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1131:404:1:C00000:0:0:0:
+#SERVICE 1:0:1:1132:404:1:C00000:0:0:0:
+#SERVICE 1:0:19:18EE:3F4:1:C00000:0:0:0:
+#SERVICE 1:0:19:18F8:3F4:1:C00000:0:0:0:
+#SERVICE 1:0:1:1B65:3FC:1:C00000:0:0:0:
+#SERVICE 1:64:78:0:0:0:0:0:0:0::▲ ▲ ITALIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ ITALIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1072:3EE:1:C00000:0:0:0:
+#SERVICE 1:0:1:1073:3EE:1:C00000:0:0:0:
+#SERVICE 1:0:1:1074:3EE:1:C00000:0:0:0:
+#SERVICE 1:0:1:1078:3EE:1:C00000:0:0:0:
+#SERVICE 1:64:79:0:0:0:0:0:0:0::▲ ▲ INGLATERRA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ INGLATERRA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1389:3EA:1:C00000:0:0:0:
+#SERVICE 1:0:1:2742:402:1:C00000:0:0:0:
+#SERVICE 1:0:1:1C7A:457:1:C00000:0:0:0:
+#SERVICE 1:0:1:272E:402:1:C00000:0:0:0:
+#SERVICE 1:0:1:1AFA:3FE:1:C00000:0:0:0:
+#SERVICE 1:64:7A:0:0:0:0:0:0:0::▲ ▲ FRANCIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ FRANCIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:7AB1:410:1:C00000:0:0:0:
+#SERVICE 1:0:1:1B03:3FE:1:C00000:0:0:0:
+#SERVICE 1:0:1:1AF9:3FE:1:C00000:0:0:0:
+#SERVICE 1:0:1:7A4B:410:1:C00000:0:0:0:
+#SERVICE 1:64:7B:0:0:0:0:0:0:0::▲ ▲ RUSIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ RUSIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1406:403:1:C00000:0:0:0:
+#SERVICE 1:0:1:18ED:3F4:1:C00000:0:0:0:
+#SERVICE 1:0:16:15E1:403:1:C00000:0:0:0:
+#SERVICE 1:0:16:7D00:405:1:C00000:0:0:0:
+#SERVICE 1:0:1:1AF8:3FE:1:C00000:0:0:0:
+#SERVICE 1:64:7C:0:0:0:0:0:0:0::▲ ▲ POLONIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ POLONIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:10D6:418:1:C00000:0:0:0:
+#SERVICE 1:64:7D:0:0:0:0:0:0:0::▲ ▲ BRASIL ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ BRASIL ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:7A45:410:1:C00000:0:0:0:
+#SERVICE 1:64:7E:0:0:0:0:0:0:0::▲ ▲ VENEZUELA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ VENEZUELA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:7A48:410:1:C00000:0:0:0:
+#SERVICE 1:64:7F:0:0:0:0:0:0:0::▲ ▲ CUBA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ CUBA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1B60:3FC:1:C00000:0:0:0:
+#SERVICE 1:64:80:0:0:0:0:0:0:0::▲ ▲ KOREA DEL SUR ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ KOREA DEL SUR ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1B63:3FC:1:C00000:0:0:0:
+#SERVICE 1:64:81:0:0:0:0:0:0:0::▲ ▲ CHINA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ CHINA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1B01:3FE:1:C00000:0:0:0:
+#SERVICE 1:0:1:1B02:3FE:1:C00000:0:0:0:
+#SERVICE 1:0:1:1B00:3FE:1:C00000:0:0:0:
+#SERVICE 1:64:82:0:0:0:0:0:0:0::▲ ▲ TURQUIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ TURQUIA ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:13F9:403:1:C00000:0:0:0:
+#SERVICE 1:64:83:0:0:0:0:0:0:0::▲ ▲ PAISES ARABES ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#DESCRIPTION ▲ ▲ PAISES ARABES ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#SERVICE 1:0:1:1B61:3FC:1:C00000:0:0:0:
+#SERVICE 1:0:1:1158:404:1:C00000:0:0:0:
+#SERVICE 1:0:1:1AFE:3FE:1:C00000:0:0:0:
+#SERVICE 1:0:1:2762:402:1:C00000:0:0:0:
+#SERVICE 1:0:1:2763:402:1:C00000:0:0:0:
