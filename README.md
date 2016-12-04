@@ -9,5 +9,5 @@ iptv- Canales para vlc<br>
 Types of settings Openplus channels:<br>
 19e - Astra<br>
 30w - Hispasat<br>
-iptv- Canales Movistar iptv<br>
-iptv- Chennels for vlc
+iptv- Channels Movistar iptv<br>
+iptv- Channels for vlc
